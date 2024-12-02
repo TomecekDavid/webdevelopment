@@ -1,0 +1,22 @@
+h1 {color: red;
+  text-align: center;
+  }
+
+.rodic {
+    width: 50%; /* Rodič se přizpůsobí šířce okna */
+    margin: 0 auto;
+    text-align: center; /* Obrázek bude zarovnán na střed */
+}
+.obrazek {
+      box-sizing: border-box; /* Vše zahrnuto do celkové velikosti */
+      max-width: 100%;
+      height: auto;
+      padding: 10px;
+      border: 5px solid red;
+      margin: 10px;
+      background-color: lightblue;
+      display: inline;
+    }
+.link{
+margin-left: 83px;
+}
